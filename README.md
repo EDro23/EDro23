@@ -3,8 +3,8 @@
   <div id="LinkedIn Badge">
   <a href="https://www.linkedin.com/in/ethan-drover-9416111aa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/>
-  </a>
     <img src="https://komarev.com/ghpvc/EDro23&style=flat-square&color=blue" alt=""/>
+  </a>
   </div>
 </div>
 
