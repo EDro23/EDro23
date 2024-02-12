@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/ethan-drover-9416111aa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/>
     <br>
-    <img src="![](https://komarev.com/ghpvc/?username=your-github-username)" alt="Profile Views"/>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EDro23&theme=dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
   </a>
   </div>
 </div>
