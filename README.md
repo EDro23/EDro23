@@ -8,7 +8,8 @@
   <a href="https://www.linkedin.com/in/ethan-drover-9416111aa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" align="center"/>
     <br>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EDro23&theme=vision-friendly-dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EDro23&theme=vision-friendly-dark&hide_border=true&exclude_days=Sun%2CSat"/></a>
+    <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edro23&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs">
 </a>
