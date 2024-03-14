@@ -25,7 +25,7 @@
 
  - 🧑‍🚀 Exploring Technical Content Writing.
 
- - ⚡ In my free time, I like to play games!
+ - ⚡ In my free time, I like to play cook or play games!
 
  - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ethan-drover-9416111aa/)
 
