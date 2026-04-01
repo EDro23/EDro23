@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNuaGlwOHY1aHU4ZThoNnVoYnA5OWNhb3Zyb3EyamJ6eXhkMjFndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif"width="200px"height="200px"/>
     <h1>
-  Hello there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   <div id="LinkedIn Badge" align="center">
